@@ -1,12 +1,15 @@
 # IGNet (Inter-frequency Guided Denoise Network)
 code of arxiv paper [Exploring Inter-frequency Guidance of Image for Lightweight Gaussian Denoising](https://arxiv.org/abs/2112.11779)
 
-<img src='./_assets/fig0.1.png' width="500px" class="center">
+<center>
+<img src='./_assets/fig0.1.png' width="500px">
+</center>
 
 ### Architecture
 
-<img src='./_assets/fig2.png' width="400px" class="center">
-
+<center>
+<img src='./_assets/fig2.png' width="400px">
+</center>
 
 
 ### Test pre-trained models
